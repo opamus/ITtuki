@@ -6,6 +6,8 @@ body {
     position: absolute;
     top:20px;
     left:20px;
+    font-size: 25px;
+    font-weight: 200;
 }
 .item {
     list-style-type: none;
